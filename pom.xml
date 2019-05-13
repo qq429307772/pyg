@@ -13,6 +13,7 @@
         <module>pinyougou_pojo</module>
         <module>pinyougou_manager_web</module>
         <module>pinyougou_sellergoods_interface</module>
+        <module>pinyougou_sellergoods_service</module>
     </modules>
     <packaging>pom</packaging>
 
@@ -36,6 +37,7 @@
         <security.version>3.2.3.RELEASE</security.version>
         <solrj.version>4.10.3</solrj.version>
         <ik.version>2012_u6</ik.version>
+        <lombok.version>1.16.6</lombok.version>
     </properties>
 
     <dependencyManagement>
